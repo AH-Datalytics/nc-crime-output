@@ -1,0 +1,405 @@
+Agency Name,Murder,Rape,Robbery,Aggravated Assault,Burglary,Theft,Motor Vehicle Theft,Year,Month,State,Type
+Apex,0,1,1,1,0,16,0,2025,2,NC,City
+Apex,0,0,0,1,2,43,4,2025,3,NC,City
+Apex,1,2,0,3,8,46,2,2025,4,NC,City
+Apex,0,1,0,3,3,60,1,2025,5,NC,City
+Apex,0,0,0,2,4,65,4,2025,6,NC,City
+Apex,0,0,1,2,6,49,3,2025,7,NC,City
+Apex,0,0,0,6,3,50,10,2025,8,NC,City
+Apex,0,0,0,1,2,41,0,2025,9,NC,City
+Apex,0,0,0,4,3,44,3,2025,10,NC,City
+Apex,0,0,0,2,2,35,3,2025,11,NC,City
+Apex,0,1,1,3,5,36,1,2025,12,NC,City
+Apex,0,2,0,2,4,35,1,2026,1,NC,City
+Apex,0,1,0,0,4,21,1,2026,2,NC,City
+Asheville,0,6,7,50,41,250,26,2025,2,NC,City
+Asheville,0,4,3,30,48,258,26,2025,3,NC,City
+Asheville,0,3,9,45,45,277,19,2025,4,NC,City
+Asheville,0,5,5,43,34,319,24,2025,5,NC,City
+Asheville,0,4,10,60,44,299,39,2025,6,NC,City
+Asheville,0,5,9,62,61,299,30,2025,7,NC,City
+Asheville,0,8,10,50,61,290,33,2025,8,NC,City
+Asheville,1,5,5,61,58,257,23,2025,9,NC,City
+Asheville,0,10,9,40,55,316,28,2025,10,NC,City
+Asheville,1,1,10,51,62,257,24,2025,11,NC,City
+Asheville,1,4,8,37,48,242,32,2025,12,NC,City
+Asheville,0,3,3,47,40,208,11,2026,1,NC,City
+Buncombe,0,3,2,16,31,63,10,2025,2,NC,County
+Buncombe,0,0,0,19,15,68,14,2025,3,NC,County
+Buncombe,0,0,0,20,17,77,8,2025,4,NC,County
+Buncombe,0,1,2,17,20,53,14,2025,5,NC,County
+Buncombe,0,2,0,13,15,58,14,2025,6,NC,County
+Buncombe,1,0,2,13,26,53,18,2025,7,NC,County
+Buncombe,1,1,1,16,27,72,16,2025,8,NC,County
+Buncombe,0,2,3,15,26,72,17,2025,9,NC,County
+Buncombe,2,2,1,16,18,75,11,2025,10,NC,County
+Buncombe,0,1,2,12,15,47,6,2025,11,NC,County
+Buncombe,1,0,0,21,22,69,5,2025,12,NC,County
+Buncombe,0,1,1,11,12,45,6,2026,1,NC,County
+Buncombe,0,1,0,0,0,1,0,2026,2,NC,County
+Burlington,2,2,1,23,14,81,16,2025,2,NC,City
+Burlington,1,9,4,26,16,98,13,2025,3,NC,City
+Burlington,0,8,3,23,28,104,10,2025,4,NC,City
+Burlington,0,2,6,9,20,105,8,2025,5,NC,City
+Burlington,0,6,5,28,20,97,15,2025,6,NC,City
+Burlington,0,3,2,16,28,76,9,2025,7,NC,City
+Burlington,0,2,3,42,26,119,12,2025,8,NC,City
+Burlington,0,3,4,37,27,109,11,2025,9,NC,City
+Burlington,0,2,7,29,31,144,20,2025,10,NC,City
+Burlington,0,2,5,23,27,119,15,2025,11,NC,City
+Burlington,0,1,2,34,19,92,11,2025,12,NC,City
+Burlington,0,4,3,12,19,100,7,2026,1,NC,City
+Burlington,0,1,1,7,9,72,7,2026,2,NC,City
+Cary,1,3,2,7,8,105,10,2025,2,NC,City
+Cary,0,1,2,11,9,135,10,2025,3,NC,City
+Cary,0,0,2,12,15,146,12,2025,4,NC,City
+Cary,0,4,0,6,15,159,14,2025,5,NC,City
+Cary,0,4,0,9,6,132,12,2025,6,NC,City
+Cary,0,2,0,1,11,157,15,2025,7,NC,City
+Cary,0,1,3,6,11,137,18,2025,8,NC,City
+Cary,0,1,1,8,12,117,10,2025,9,NC,City
+Cary,0,5,1,5,12,97,7,2025,10,NC,City
+Cary,0,0,2,7,4,97,12,2025,11,NC,City
+Cary,0,0,1,12,16,90,10,2025,12,NC,City
+Cary,0,2,2,7,9,83,11,2026,1,NC,City
+Chapel Hill,0,0,2,1,11,59,10,2025,2,NC,City
+Chapel Hill,0,1,1,4,6,95,8,2025,3,NC,City
+Chapel Hill,0,1,0,6,14,71,7,2025,4,NC,City
+Chapel Hill,0,1,1,3,13,73,4,2025,5,NC,City
+Chapel Hill,0,2,4,5,19,78,10,2025,6,NC,City
+Chapel Hill,0,1,1,1,18,112,5,2025,7,NC,City
+Chapel Hill,0,1,1,2,12,78,5,2025,8,NC,City
+Chapel Hill,0,0,2,1,14,80,7,2025,9,NC,City
+Chapel Hill,0,0,1,2,7,92,7,2025,10,NC,City
+Chapel Hill,0,0,3,0,10,58,9,2025,11,NC,City
+Chapel Hill,0,1,1,3,7,64,4,2025,12,NC,City
+Chapel Hill,0,1,0,2,7,68,5,2026,1,NC,City
+Charlotte,5,14,68,318,310,1908,452,2025,2,NC,City
+Charlotte,4,14,91,329,338,2200,547,2025,3,NC,City
+Charlotte,5,14,79,338,319,2084,467,2025,4,NC,City
+Charlotte,14,24,86,393,331,2199,537,2025,5,NC,City
+Charlotte,4,18,82,386,296,2186,578,2025,6,NC,City
+Charlotte,7,20,92,589,308,2298,565,2025,7,NC,City
+Charlotte,6,16,90,441,291,2276,510,2025,8,NC,City
+Charlotte,9,16,89,363,363,2414,445,2025,9,NC,City
+Charlotte,16,20,84,391,321,2380,459,2025,10,NC,City
+Charlotte,8,16,64,374,263,2040,488,2025,11,NC,City
+Charlotte,8,12,65,261,324,2113,405,2025,12,NC,City
+Charlotte,7,17,72,292,268,2035,369,2026,1,NC,City
+Charlotte,6,15,41,228,182,1468,288,2026,2,NC,City
+Concord,0,0,3,7,9,57,9,2025,2,NC,City
+Concord,0,3,1,9,10,61,17,2025,3,NC,City
+Concord,1,1,2,14,6,77,20,2025,4,NC,City
+Concord,0,1,4,3,11,69,14,2025,5,NC,City
+Concord,0,0,2,6,6,52,8,2025,6,NC,City
+Concord,0,0,2,4,8,70,11,2025,7,NC,City
+Concord,0,0,1,6,5,63,6,2025,8,NC,City
+Concord,1,1,5,10,15,75,8,2025,9,NC,City
+Concord,0,1,3,7,8,77,12,2025,10,NC,City
+Concord,0,1,2,7,6,75,12,2025,11,NC,City
+Concord,0,0,0,10,9,89,15,2025,12,NC,City
+Concord,0,1,1,7,8,67,11,2026,1,NC,City
+Concord,0,0,0,0,0,1,0,2026,2,NC,City
+Davidson,1,1,2,8,20,59,12,2025,2,NC,County
+Davidson,0,3,1,8,13,59,6,2025,3,NC,County
+Davidson,0,0,0,7,13,43,9,2025,4,NC,County
+Davidson,0,0,0,11,19,52,9,2025,5,NC,County
+Davidson,1,1,1,4,20,49,7,2025,6,NC,County
+Davidson,0,1,1,7,27,56,8,2025,7,NC,County
+Davidson,0,0,0,5,16,59,7,2025,8,NC,County
+Davidson,0,3,2,6,19,47,6,2025,9,NC,County
+Davidson,2,1,0,8,24,46,10,2025,10,NC,County
+Davidson,1,0,3,12,13,51,8,2025,11,NC,County
+Davidson,0,0,2,12,8,37,4,2025,12,NC,County
+Davidson,0,1,1,10,5,27,8,2026,1,NC,County
+Durham,2,1,0,2,12,26,4,2025,2,NC,County
+Durham,2,26,23,63,85,528,116,2025,2,NC,City
+Durham,0,0,1,6,4,26,2,2025,3,NC,County
+Durham,4,8,34,84,114,657,150,2025,3,NC,City
+Durham,0,1,0,5,11,41,5,2025,4,NC,County
+Durham,2,14,32,73,110,601,136,2025,4,NC,City
+Durham,1,0,2,6,13,25,8,2025,5,NC,County
+Durham,6,27,49,97,94,723,184,2025,5,NC,City
+Durham,1,0,1,2,8,14,6,2025,6,NC,County
+Durham,2,11,26,97,98,673,120,2025,6,NC,City
+Durham,0,1,0,7,14,31,1,2025,7,NC,County
+Durham,3,16,29,77,116,809,136,2025,7,NC,City
+Durham,1,0,0,1,11,21,7,2025,8,NC,County
+Durham,4,15,48,86,120,809,156,2025,8,NC,City
+Durham,0,1,2,1,6,22,8,2025,9,NC,County
+Durham,4,14,42,71,111,708,103,2025,9,NC,City
+Durham,0,0,0,4,9,24,7,2025,10,NC,County
+Durham,1,18,32,79,112,750,130,2025,10,NC,City
+Durham,1,11,34,80,92,686,99,2025,11,NC,City
+Durham,1,1,0,7,5,24,6,2025,11,NC,County
+Durham,3,9,43,57,103,685,125,2025,12,NC,City
+Durham,1,0,1,0,13,22,8,2025,12,NC,County
+Durham,3,18,21,68,104,560,100,2026,1,NC,City
+Durham,0,0,2,7,3,18,4,2026,1,NC,County
+Durham,4,8,13,36,35,385,81,2026,2,NC,City
+Fayetteville,5,7,14,67,51,292,46,2025,2,NC,City
+Fayetteville,2,5,9,64,56,353,72,2025,3,NC,City
+Fayetteville,6,7,22,91,62,388,62,2025,4,NC,City
+Fayetteville,2,4,21,76,70,417,74,2025,5,NC,City
+Fayetteville,2,5,18,89,77,374,40,2025,6,NC,City
+Fayetteville,1,3,27,95,58,451,74,2025,7,NC,City
+Fayetteville,3,5,19,88,71,402,53,2025,8,NC,City
+Fayetteville,1,7,19,73,60,392,47,2025,9,NC,City
+Fayetteville,0,5,14,75,66,372,42,2025,10,NC,City
+Fayetteville,2,3,15,105,42,348,43,2025,11,NC,City
+Fayetteville,2,2,16,48,72,322,41,2025,12,NC,City
+Fayetteville,0,0,3,1,3,19,6,2026,1,NC,City
+Fayetteville,0,0,0,2,1,0,0,2026,2,NC,City
+Forsyth,1,3,2,16,12,67,4,2025,2,NC,County
+Forsyth,0,5,0,21,11,103,12,2025,3,NC,County
+Forsyth,0,0,1,6,15,102,4,2025,4,NC,County
+Forsyth,0,3,2,9,22,99,5,2025,5,NC,County
+Forsyth,1,0,2,19,17,76,9,2025,6,NC,County
+Forsyth,1,0,1,19,22,98,6,2025,7,NC,County
+Forsyth,0,0,2,14,20,101,15,2025,8,NC,County
+Forsyth,0,0,0,20,16,109,7,2025,9,NC,County
+Forsyth,1,0,3,14,13,88,6,2025,10,NC,County
+Forsyth,0,2,1,20,16,100,5,2025,11,NC,County
+Forsyth,1,0,0,14,9,103,5,2025,12,NC,County
+Forsyth,1,0,2,19,13,93,3,2026,1,NC,County
+Gastonia,0,2,7,49,38,137,19,2025,2,NC,City
+Gastonia,1,2,6,71,32,175,18,2025,3,NC,City
+Gastonia,1,3,8,58,36,151,29,2025,4,NC,City
+Gastonia,0,8,6,70,25,151,17,2025,5,NC,City
+Gastonia,0,2,6,58,25,147,22,2025,6,NC,City
+Gastonia,0,3,8,40,36,144,22,2025,7,NC,City
+Gastonia,1,2,9,54,35,166,19,2025,8,NC,City
+Gastonia,0,4,4,47,28,169,16,2025,9,NC,City
+Gastonia,1,3,8,49,39,145,16,2025,10,NC,City
+Gastonia,0,1,5,50,34,126,18,2025,11,NC,City
+Gastonia,0,2,7,47,25,171,24,2025,12,NC,City
+Gastonia,0,4,4,44,18,115,12,2026,1,NC,City
+Greensboro,1,4,33,118,86,466,111,2025,2,NC,City
+Greensboro,3,10,36,152,99,469,138,2025,3,NC,City
+Greensboro,2,6,28,164,116,557,118,2025,4,NC,City
+Greensboro,2,12,33,166,103,636,124,2025,5,NC,City
+Greensboro,3,8,36,133,111,636,130,2025,6,NC,City
+Greensboro,3,7,51,124,122,602,133,2025,7,NC,City
+Greensboro,4,8,30,135,112,533,141,2025,8,NC,City
+Greensboro,2,7,46,147,111,481,111,2025,9,NC,City
+Greensboro,0,1,10,26,24,94,21,2025,10,NC,City
+Greenville,1,0,1,9,13,144,8,2025,2,NC,City
+Greenville,1,1,4,26,18,149,8,2025,3,NC,City
+Greenville,0,4,6,43,17,148,10,2025,4,NC,City
+Greenville,0,4,6,34,15,188,8,2025,5,NC,City
+Greenville,1,1,4,44,15,170,19,2025,6,NC,City
+Greenville,2,1,1,23,19,188,19,2025,7,NC,City
+Greenville,0,1,2,33,27,179,15,2025,8,NC,City
+Greenville,0,3,1,23,34,196,13,2025,9,NC,City
+Greenville,0,1,3,27,20,186,14,2025,10,NC,City
+Greenville,0,5,5,36,11,173,12,2025,11,NC,City
+Greenville,2,0,8,27,9,150,5,2025,12,NC,City
+Greenville,0,0,1,5,4,36,1,2026,1,NC,City
+Guilford,0,0,2,13,14,38,6,2025,2,NC,County
+Guilford,1,0,3,16,10,43,6,2025,3,NC,County
+Guilford,0,2,8,6,21,58,13,2025,4,NC,County
+Guilford,0,3,3,11,9,42,9,2025,5,NC,County
+Guilford,0,0,7,13,17,47,15,2025,6,NC,County
+Guilford,1,0,1,13,9,46,14,2025,7,NC,County
+Guilford,0,1,3,8,12,67,8,2025,8,NC,County
+Guilford,2,0,2,19,16,45,8,2025,9,NC,County
+Guilford,0,2,2,10,11,39,9,2025,10,NC,County
+Guilford,1,0,2,13,15,42,11,2025,11,NC,County
+Guilford,0,0,1,16,13,47,11,2025,12,NC,County
+Guilford,0,0,2,20,7,37,4,2026,1,NC,County
+High Point,0,2,3,26,23,137,24,2025,2,NC,City
+High Point,0,0,7,33,32,129,30,2025,3,NC,City
+High Point,0,4,9,40,33,146,36,2025,4,NC,City
+High Point,0,0,10,46,37,143,41,2025,5,NC,City
+High Point,2,3,7,69,29,148,24,2025,6,NC,City
+High Point,1,3,8,50,41,147,33,2025,7,NC,City
+High Point,0,1,6,31,42,150,22,2025,8,NC,City
+High Point,1,2,7,53,37,113,18,2025,9,NC,City
+High Point,1,3,7,41,35,136,21,2025,10,NC,City
+High Point,0,1,6,51,29,126,18,2025,11,NC,City
+High Point,0,3,6,38,25,130,24,2025,12,NC,City
+High Point,1,0,4,37,33,120,16,2026,1,NC,City
+High Point,0,0,0,0,0,3,0,2026,2,NC,City
+Huntersville,1,2,0,6,8,37,16,2025,2,NC,City
+Huntersville,0,0,1,4,6,63,10,2025,3,NC,City
+Huntersville,0,0,2,9,7,39,4,2025,4,NC,City
+Huntersville,0,0,0,4,10,57,5,2025,5,NC,City
+Huntersville,0,0,0,4,2,52,3,2025,6,NC,City
+Huntersville,0,1,0,5,11,62,4,2025,7,NC,City
+Huntersville,0,0,1,7,7,44,9,2025,8,NC,City
+Huntersville,0,0,2,4,11,42,5,2025,9,NC,City
+Huntersville,0,1,0,5,8,42,5,2025,10,NC,City
+Huntersville,1,0,1,9,5,47,7,2025,11,NC,City
+Huntersville,0,1,2,1,11,58,9,2025,12,NC,City
+Huntersville,0,0,1,3,2,38,4,2026,1,NC,City
+Huntersville,0,1,0,7,5,24,5,2026,2,NC,City
+Iredell,0,0,1,15,21,23,7,2025,2,NC,County
+Iredell,0,0,0,8,14,28,6,2025,3,NC,County
+Iredell,0,2,1,17,21,29,4,2025,4,NC,County
+Iredell,0,0,1,25,15,43,5,2025,5,NC,County
+Iredell,0,0,0,25,11,29,7,2025,6,NC,County
+Iredell,0,2,1,8,25,27,8,2025,7,NC,County
+Iredell,0,0,1,6,13,29,6,2025,8,NC,County
+Iredell,0,0,1,11,15,22,5,2025,9,NC,County
+Iredell,0,1,0,13,10,30,11,2025,10,NC,County
+Iredell,0,0,0,14,11,30,6,2025,11,NC,County
+Iredell,0,0,0,5,10,21,2,2025,12,NC,County
+Iredell,0,2,0,12,12,31,4,2026,1,NC,County
+Jacksonville,0,3,1,9,12,94,3,2025,2,NC,City
+Jacksonville,1,4,0,15,8,105,6,2025,3,NC,City
+Jacksonville,1,1,1,5,8,106,3,2025,4,NC,City
+Jacksonville,0,1,1,7,12,93,3,2025,5,NC,City
+Jacksonville,0,3,2,12,7,95,3,2025,6,NC,City
+Jacksonville,1,0,0,11,9,76,12,2025,7,NC,City
+Jacksonville,0,3,2,13,9,74,4,2025,8,NC,City
+Jacksonville,0,1,3,12,4,86,5,2025,9,NC,City
+Jacksonville,0,3,1,8,13,79,6,2025,10,NC,City
+Jacksonville,0,2,1,12,15,67,6,2025,11,NC,City
+Jacksonville,0,0,0,6,9,73,1,2025,12,NC,City
+Johnston,3,1,2,18,13,76,6,2025,2,NC,County
+Johnston,1,4,2,11,13,85,10,2025,3,NC,County
+Johnston,0,2,0,8,17,90,14,2025,4,NC,County
+Johnston,0,2,1,19,11,71,10,2025,5,NC,County
+Johnston,0,2,1,12,22,94,15,2025,6,NC,County
+Johnston,3,4,0,8,16,84,8,2025,7,NC,County
+Johnston,1,1,0,11,22,76,4,2025,8,NC,County
+Johnston,1,4,1,10,10,78,17,2025,9,NC,County
+Johnston,4,0,2,6,16,67,6,2025,10,NC,County
+Johnston,0,2,2,9,20,74,12,2025,11,NC,County
+Johnston,0,1,0,5,17,78,12,2025,12,NC,County
+Johnston,0,3,1,4,8,57,7,2026,1,NC,County
+Kannapolis,2,1,2,9,7,41,6,2025,2,NC,City
+Kannapolis,0,1,1,5,13,53,15,2025,3,NC,City
+Kannapolis,0,0,1,9,8,43,12,2025,4,NC,City
+Kannapolis,0,1,0,5,12,62,10,2025,5,NC,City
+Kannapolis,0,0,1,4,8,66,4,2025,6,NC,City
+Kannapolis,0,0,2,3,16,62,7,2025,7,NC,City
+Kannapolis,0,1,1,9,14,64,6,2025,8,NC,City
+Kannapolis,0,2,0,15,7,73,10,2025,9,NC,City
+Kannapolis,0,0,2,6,8,48,5,2025,10,NC,City
+Kannapolis,0,0,1,4,12,50,5,2025,11,NC,City
+Kannapolis,0,1,2,1,11,57,8,2025,12,NC,City
+Kannapolis,0,1,3,2,7,42,7,2026,1,NC,City
+Mooresville,0,2,3,11,6,73,3,2025,2,NC,City
+Mooresville,0,3,0,3,12,104,5,2025,3,NC,City
+Mooresville,0,4,0,7,3,88,7,2025,4,NC,City
+Mooresville,0,1,1,12,6,66,8,2025,5,NC,City
+Mooresville,0,3,0,8,3,96,5,2025,6,NC,City
+Mooresville,0,3,9,11,4,79,4,2025,7,NC,City
+Mooresville,0,2,0,9,9,68,3,2025,8,NC,City
+Mooresville,0,3,0,2,5,77,9,2025,9,NC,City
+Mooresville,0,1,2,6,1,68,2,2025,10,NC,City
+Mooresville,0,2,1,5,6,58,12,2025,11,NC,City
+Mooresville,1,0,2,8,6,65,4,2025,12,NC,City
+Mooresville,0,2,1,3,3,70,0,2026,1,NC,City
+Mooresville,0,2,2,9,4,30,1,2026,2,NC,City
+New Hanover,1,2,1,14,6,49,3,2025,2,NC,County
+New Hanover,0,3,1,13,6,76,10,2025,3,NC,County
+New Hanover,1,0,3,15,13,72,10,2025,4,NC,County
+New Hanover,0,2,4,20,14,103,19,2025,5,NC,County
+New Hanover,0,4,2,5,15,104,13,2025,6,NC,County
+New Hanover,1,2,3,5,13,78,3,2025,7,NC,County
+New Hanover,0,5,1,13,19,72,4,2025,8,NC,County
+New Hanover,2,8,1,15,6,78,0,2025,9,NC,County
+New Hanover,0,3,3,17,24,77,2,2025,10,NC,County
+New Hanover,0,5,1,4,14,75,4,2025,11,NC,County
+New Hanover,0,2,3,8,9,75,5,2025,12,NC,County
+New Hanover,0,4,1,3,10,70,2,2026,1,NC,County
+Onslow,1,2,3,11,27,53,11,2025,2,NC,County
+Onslow,0,3,2,44,27,69,17,2025,3,NC,County
+Onslow,0,1,0,31,26,64,10,2025,4,NC,County
+Onslow,0,5,1,32,23,69,6,2025,5,NC,County
+Onslow,0,0,0,21,18,48,16,2025,6,NC,County
+Onslow,0,3,1,18,26,66,13,2025,7,NC,County
+Onslow,0,3,2,18,21,57,9,2025,8,NC,County
+Onslow,1,3,2,41,18,78,4,2025,9,NC,County
+Onslow,1,3,0,21,31,71,7,2025,10,NC,County
+Onslow,0,4,1,27,27,71,13,2025,11,NC,County
+Onslow,1,0,1,15,24,84,9,2025,12,NC,County
+Onslow,0,3,2,19,26,54,7,2026,1,NC,County
+Raleigh,1,15,18,95,84,610,139,2025,2,NC,City
+Raleigh,4,20,24,142,89,732,145,2025,3,NC,City
+Raleigh,2,20,40,99,86,719,126,2025,4,NC,City
+Raleigh,2,9,47,149,107,881,132,2025,5,NC,City
+Raleigh,2,13,29,152,84,804,137,2025,6,NC,City
+Raleigh,1,16,20,135,112,804,127,2025,7,NC,City
+Raleigh,2,16,41,131,92,784,145,2025,8,NC,City
+Raleigh,1,15,31,102,77,676,113,2025,9,NC,City
+Raleigh,2,14,37,153,105,674,101,2025,10,NC,City
+Raleigh,2,15,28,112,106,682,89,2025,11,NC,City
+Raleigh,1,8,26,80,96,601,110,2025,12,NC,City
+Raleigh,1,10,31,100,92,631,97,2026,1,NC,City
+Raleigh,0,6,13,59,34,355,68,2026,2,NC,City
+Rocky Mount,1,1,3,16,20,96,11,2025,2,NC,City
+Rocky Mount,4,2,2,12,32,95,12,2025,3,NC,City
+Rocky Mount,0,1,7,42,30,125,22,2025,4,NC,City
+Rocky Mount,1,3,4,42,31,151,17,2025,5,NC,City
+Rocky Mount,0,0,5,31,26,126,16,2025,6,NC,City
+Rocky Mount,3,0,3,20,28,141,14,2025,7,NC,City
+Rocky Mount,1,1,6,24,30,142,12,2025,8,NC,City
+Rocky Mount,1,1,7,29,31,123,7,2025,9,NC,City
+Rocky Mount,0,0,3,25,24,107,7,2025,10,NC,City
+Rocky Mount,3,1,4,23,29,96,9,2025,11,NC,City
+Rocky Mount,1,2,4,19,20,94,8,2025,12,NC,City
+Rocky Mount,2,1,7,26,20,78,8,2026,1,NC,City
+Rocky Mount,0,0,0,0,0,2,0,2026,2,NC,City
+Union,0,7,1,12,19,59,8,2025,2,NC,County
+Union,0,3,0,16,23,75,5,2025,3,NC,County
+Union,0,7,0,16,11,90,9,2025,4,NC,County
+Union,1,3,0,7,11,86,2,2025,5,NC,County
+Union,0,7,0,15,26,111,5,2025,6,NC,County
+Union,0,5,2,10,19,81,11,2025,7,NC,County
+Union,0,1,2,8,22,50,4,2025,8,NC,County
+Union,0,11,0,11,17,67,5,2025,9,NC,County
+Union,1,5,1,16,28,75,7,2025,10,NC,County
+Union,0,2,1,7,17,56,4,2025,11,NC,County
+Union,0,4,1,10,13,43,4,2025,12,NC,County
+Union,0,0,0,0,0,0,1,2026,1,NC,County
+Wake,0,3,3,10,17,44,12,2025,2,NC,County
+Wake,1,3,1,19,13,28,14,2025,3,NC,County
+Wake,0,1,0,30,17,51,11,2025,4,NC,County
+Wake,0,0,1,22,20,69,25,2025,5,NC,County
+Wake,2,0,2,22,13,74,17,2025,6,NC,County
+Wake,1,0,1,12,15,40,12,2025,7,NC,County
+Wake,0,2,2,25,24,39,15,2025,8,NC,County
+Wake,0,5,0,18,29,49,11,2025,9,NC,County
+Wake,0,1,0,18,42,46,18,2025,10,NC,County
+Wake,2,3,2,12,23,46,17,2025,11,NC,County
+Wake,0,2,2,10,44,44,20,2025,12,NC,County
+Wake Forest,0,0,1,1,7,53,4,2025,2,NC,City
+Wake Forest,0,0,1,3,3,56,4,2025,3,NC,City
+Wake Forest,0,0,0,4,5,44,7,2025,4,NC,City
+Wake Forest,0,0,1,4,5,47,1,2025,5,NC,City
+Wake Forest,0,0,0,1,5,56,6,2025,6,NC,City
+Wake Forest,0,0,0,3,11,50,5,2025,7,NC,City
+Wake Forest,1,0,0,2,3,40,2,2025,8,NC,City
+Wake Forest,1,0,0,3,2,24,2,2025,9,NC,City
+Wake Forest,0,2,0,7,1,24,3,2025,10,NC,City
+Wake Forest,0,0,1,6,4,43,2,2025,11,NC,City
+Wake Forest,0,0,0,3,2,36,1,2025,12,NC,City
+Wake Forest,0,1,0,3,2,39,0,2026,1,NC,City
+Wilmington,0,2,7,31,37,264,23,2025,2,NC,City
+Wilmington,0,5,12,40,60,274,28,2025,3,NC,City
+Wilmington,3,1,9,39,44,249,24,2025,4,NC,City
+Wilmington,1,6,9,26,48,256,39,2025,5,NC,City
+Wilmington,1,4,12,42,29,255,25,2025,6,NC,City
+Wilmington,2,4,7,35,38,212,28,2025,7,NC,City
+Wilmington,0,3,5,32,46,279,16,2025,8,NC,City
+Wilmington,0,10,14,28,36,235,23,2025,9,NC,City
+Wilmington,0,5,4,12,51,261,22,2025,10,NC,City
+Wilmington,0,4,8,16,35,231,29,2025,11,NC,City
+Wilmington,2,6,9,29,29,212,23,2025,12,NC,City
+Wilmington,2,4,12,19,35,190,24,2026,1,NC,City
+Wilmington,0,0,0,0,0,1,0,2026,2,NC,City
+Winston-Salem,1,6,20,103,130,422,77,2025,2,NC,City
+Winston-Salem,0,14,16,136,100,479,65,2025,3,NC,City
+Winston-Salem,1,4,16,123,100,457,83,2025,4,NC,City
+Winston-Salem,2,12,27,144,96,473,95,2025,5,NC,City
+Winston-Salem,4,9,19,183,118,479,70,2025,6,NC,City
+Winston-Salem,2,9,18,127,128,535,78,2025,7,NC,City
+Winston-Salem,8,7,18,120,141,533,87,2025,8,NC,City
+Winston-Salem,4,16,10,147,107,479,58,2025,9,NC,City
+Winston-Salem,1,11,10,122,99,399,59,2025,10,NC,City
+Winston-Salem,2,14,19,137,98,409,49,2025,11,NC,City
+Winston-Salem,0,0,0,0,0,2,0,2025,12,NC,City
+Winston-Salem,0,0,0,0,0,3,0,2026,1,NC,City

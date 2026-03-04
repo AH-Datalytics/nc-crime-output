@@ -79,8 +79,8 @@ Charlotte,16,20,84,391,321,2380,459,2025,10,NC,City
 Charlotte,8,16,64,374,263,2040,488,2025,11,NC,City
 Charlotte,8,12,65,261,324,2113,405,2025,12,NC,City
 Charlotte,7,17,72,292,268,2034,369,2026,1,NC,City
-Charlotte,6,14,48,266,198,1626,311,2026,2,NC,City
-Charlotte,0,0,1,15,0,39,16,2026,3,NC,City
+Charlotte,7,13,49,267,200,1627,311,2026,2,NC,City
+Charlotte,0,0,3,22,12,101,38,2026,3,NC,City
 Concord,0,3,1,9,10,61,17,2025,3,NC,City
 Concord,1,1,2,14,6,77,20,2025,4,NC,City
 Concord,0,1,4,3,11,69,14,2025,5,NC,City
@@ -215,7 +215,7 @@ Huntersville,1,0,1,9,5,47,7,2025,11,NC,City
 Huntersville,0,1,2,1,11,58,9,2025,12,NC,City
 Huntersville,0,0,1,3,2,38,4,2026,1,NC,City
 Huntersville,0,1,0,7,6,28,6,2026,2,NC,City
-Huntersville,0,0,0,1,0,0,0,2026,3,NC,City
+Huntersville,0,0,0,1,0,1,0,2026,3,NC,City
 Iredell,0,0,0,8,14,28,6,2025,3,NC,County
 Iredell,0,2,1,17,21,29,4,2025,4,NC,County
 Iredell,0,0,1,25,15,43,5,2025,5,NC,County
@@ -223,10 +223,11 @@ Iredell,0,0,0,25,11,29,7,2025,6,NC,County
 Iredell,0,2,1,8,25,27,8,2025,7,NC,County
 Iredell,0,0,1,6,13,29,6,2025,8,NC,County
 Iredell,0,0,1,11,15,22,5,2025,9,NC,County
-Iredell,0,1,0,13,10,30,11,2025,10,NC,County
-Iredell,0,0,0,14,11,30,6,2025,11,NC,County
+Iredell,0,1,0,13,11,30,11,2025,10,NC,County
+Iredell,0,2,0,14,11,31,6,2025,11,NC,County
 Iredell,0,0,0,5,10,21,2,2025,12,NC,County
-Iredell,0,2,0,12,12,31,4,2026,1,NC,County
+Iredell,0,2,0,12,13,33,6,2026,1,NC,County
+Iredell,0,0,0,2,12,14,0,2026,2,NC,County
 Jacksonville,1,4,0,15,8,105,6,2025,3,NC,City
 Jacksonville,1,1,1,5,8,106,3,2025,4,NC,City
 Jacksonville,0,1,1,7,12,93,3,2025,5,NC,City
@@ -246,8 +247,9 @@ Johnston,1,1,0,11,22,76,4,2025,8,NC,County
 Johnston,1,4,1,10,10,78,17,2025,9,NC,County
 Johnston,4,0,2,6,16,67,6,2025,10,NC,County
 Johnston,0,2,2,9,20,74,12,2025,11,NC,County
-Johnston,0,1,0,5,17,78,12,2025,12,NC,County
-Johnston,0,3,1,4,8,57,7,2026,1,NC,County
+Johnston,0,1,0,5,17,79,12,2025,12,NC,County
+Johnston,0,3,1,4,8,61,7,2026,1,NC,County
+Johnston,0,2,1,4,17,45,10,2026,2,NC,County
 Kannapolis,0,1,1,5,13,53,15,2025,3,NC,City
 Kannapolis,0,0,1,9,8,43,12,2025,4,NC,City
 Kannapolis,0,1,0,5,12,62,10,2025,5,NC,City

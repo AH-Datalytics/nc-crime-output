@@ -75,13 +75,13 @@ Charlotte,14,24,86,393,331,2199,537,2025,5,NC,City
 Charlotte,4,18,82,386,296,2186,578,2025,6,NC,City
 Charlotte,7,20,92,589,308,2298,565,2025,7,NC,City
 Charlotte,6,16,90,441,291,2276,510,2025,8,NC,City
-Charlotte,9,16,89,363,363,2414,444,2025,9,NC,City
-Charlotte,16,20,84,391,321,2380,459,2025,10,NC,City
+Charlotte,9,16,89,364,363,2414,444,2025,9,NC,City
+Charlotte,16,20,84,391,322,2379,459,2025,10,NC,City
 Charlotte,8,16,64,374,263,2040,488,2025,11,NC,City
-Charlotte,8,12,65,261,324,2112,405,2025,12,NC,City
+Charlotte,8,12,65,261,325,2112,405,2025,12,NC,City
 Charlotte,7,17,72,292,270,2032,369,2026,1,NC,City
-Charlotte,7,13,50,268,201,1624,309,2026,2,NC,City
-Charlotte,0,3,8,52,33,291,71,2026,3,NC,City
+Charlotte,7,13,50,267,202,1622,311,2026,2,NC,City
+Charlotte,1,3,17,75,51,494,93,2026,3,NC,City
 Concord,0,3,1,9,10,61,17,2025,3,NC,City
 Concord,1,1,2,14,6,77,20,2025,4,NC,City
 Concord,0,1,4,3,11,69,14,2025,5,NC,City
@@ -217,7 +217,7 @@ Huntersville,1,0,1,9,5,47,7,2025,11,NC,City
 Huntersville,0,1,2,1,11,58,9,2025,12,NC,City
 Huntersville,0,0,1,3,2,38,4,2026,1,NC,City
 Huntersville,0,1,0,7,6,28,6,2026,2,NC,City
-Huntersville,0,0,0,1,0,8,0,2026,3,NC,City
+Huntersville,0,0,0,1,1,10,0,2026,3,NC,City
 Iredell,0,0,0,8,14,28,6,2025,3,NC,County
 Iredell,0,2,1,17,21,29,4,2025,4,NC,County
 Iredell,0,0,1,25,15,43,5,2025,5,NC,County
@@ -280,13 +280,14 @@ New Hanover,0,3,1,13,6,76,10,2025,3,NC,County
 New Hanover,1,0,3,15,13,72,10,2025,4,NC,County
 New Hanover,0,2,4,20,14,103,19,2025,5,NC,County
 New Hanover,0,4,2,5,15,104,13,2025,6,NC,County
-New Hanover,1,2,3,5,13,78,3,2025,7,NC,County
+New Hanover,1,2,3,5,13,79,3,2025,7,NC,County
 New Hanover,0,5,1,13,19,72,4,2025,8,NC,County
-New Hanover,2,8,1,15,6,78,0,2025,9,NC,County
-New Hanover,0,3,3,17,24,77,2,2025,10,NC,County
-New Hanover,0,5,1,4,14,75,4,2025,11,NC,County
-New Hanover,0,2,3,8,9,75,5,2025,12,NC,County
-New Hanover,0,4,1,3,10,70,2,2026,1,NC,County
+New Hanover,2,8,1,15,6,79,0,2025,9,NC,County
+New Hanover,0,3,3,17,24,78,2,2025,10,NC,County
+New Hanover,0,5,1,4,14,77,4,2025,11,NC,County
+New Hanover,0,2,3,8,10,79,5,2025,12,NC,County
+New Hanover,0,6,1,3,10,83,1,2026,1,NC,County
+New Hanover,0,5,4,8,8,71,4,2026,2,NC,County
 Onslow,0,3,2,44,27,69,17,2025,3,NC,County
 Onslow,0,1,0,31,26,64,10,2025,4,NC,County
 Onslow,0,5,1,32,23,69,6,2025,5,NC,County

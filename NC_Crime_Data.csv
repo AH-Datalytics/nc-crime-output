@@ -82,10 +82,10 @@ Charlotte,6,16,90,441,291,2276,510,2025,8,NC,City
 Charlotte,9,16,89,364,363,2414,444,2025,9,NC,City
 Charlotte,16,20,84,391,322,2379,459,2025,10,NC,City
 Charlotte,8,16,64,373,263,2040,488,2025,11,NC,City
-Charlotte,8,13,65,262,325,2112,405,2025,12,NC,City
+Charlotte,8,13,65,262,325,2111,405,2025,12,NC,City
 Charlotte,7,17,70,292,272,2031,368,2026,1,NC,City
-Charlotte,7,13,50,266,203,1614,310,2026,2,NC,City
-Charlotte,2,11,38,154,120,968,181,2026,3,NC,City
+Charlotte,7,13,49,266,203,1609,310,2026,2,NC,City
+Charlotte,4,11,40,167,127,1022,194,2026,3,NC,City
 Concord,0,3,1,9,10,62,17,2025,3,NC,City
 Concord,1,1,2,14,6,77,20,2025,4,NC,City
 Concord,0,1,4,3,11,69,14,2025,5,NC,City
@@ -154,8 +154,10 @@ Forsyth,0,0,2,14,20,101,15,2025,8,NC,County
 Forsyth,0,0,0,20,16,109,7,2025,9,NC,County
 Forsyth,1,0,3,14,13,88,6,2025,10,NC,County
 Forsyth,0,2,1,20,16,100,5,2025,11,NC,County
-Forsyth,1,0,0,14,9,103,5,2025,12,NC,County
-Forsyth,1,0,2,19,13,93,3,2026,1,NC,County
+Forsyth,1,0,0,15,9,105,5,2025,12,NC,County
+Forsyth,1,0,2,19,13,97,3,2026,1,NC,County
+Forsyth,1,2,2,16,14,88,8,2026,2,NC,County
+Forsyth,0,0,0,0,1,0,0,2026,3,NC,County
 Gastonia,1,2,6,71,32,175,18,2025,3,NC,City
 Gastonia,1,3,8,58,36,151,29,2025,4,NC,City
 Gastonia,0,8,6,70,25,152,17,2025,5,NC,City
@@ -224,7 +226,7 @@ Huntersville,1,0,1,9,5,47,7,2025,11,NC,City
 Huntersville,0,1,2,1,11,58,9,2025,12,NC,City
 Huntersville,0,0,1,3,2,38,4,2026,1,NC,City
 Huntersville,0,1,0,7,6,28,6,2026,2,NC,City
-Huntersville,0,0,1,2,3,20,3,2026,3,NC,City
+Huntersville,0,0,1,2,3,22,4,2026,3,NC,City
 Iredell,0,0,0,8,14,28,6,2025,3,NC,County
 Iredell,0,2,1,17,21,29,4,2025,4,NC,County
 Iredell,0,0,1,25,15,43,5,2025,5,NC,County

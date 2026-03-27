@@ -36,7 +36,7 @@ Buncombe,0,2,2,12,15,48,6,2025,11,NC,County
 Buncombe,1,0,0,21,21,70,5,2025,12,NC,County
 Buncombe,0,1,1,11,12,46,6,2026,1,NC,County
 Buncombe,0,1,0,12,19,49,12,2026,2,NC,County
-Burlington,1,9,4,26,16,98,13,2025,3,NC,City
+Burlington,1,9,4,26,17,98,13,2025,3,NC,City
 Burlington,0,8,3,23,28,104,10,2025,4,NC,City
 Burlington,0,2,6,10,20,105,8,2025,5,NC,City
 Burlington,0,6,5,28,20,97,15,2025,6,NC,City
@@ -46,9 +46,9 @@ Burlington,0,3,4,37,27,109,11,2025,9,NC,City
 Burlington,0,2,7,29,31,144,20,2025,10,NC,City
 Burlington,0,2,5,23,27,119,15,2025,11,NC,City
 Burlington,0,1,2,34,19,93,11,2025,12,NC,City
-Burlington,0,4,3,11,19,100,7,2026,1,NC,City
-Burlington,0,2,2,16,14,125,12,2026,2,NC,City
-Burlington,0,1,2,12,11,50,1,2026,3,NC,City
+Burlington,0,4,3,11,19,101,8,2026,1,NC,City
+Burlington,0,2,2,16,14,124,12,2026,2,NC,City
+Burlington,0,2,2,15,15,88,5,2026,3,NC,City
 Cary,0,1,2,11,9,135,10,2025,3,NC,City
 Cary,0,1,2,12,15,146,12,2025,4,NC,City
 Cary,0,4,0,6,15,159,14,2025,5,NC,City
@@ -141,13 +141,13 @@ Fayetteville,2,4,21,76,70,417,74,2025,5,NC,City
 Fayetteville,2,5,18,89,77,374,40,2025,6,NC,City
 Fayetteville,1,3,27,95,58,451,74,2025,7,NC,City
 Fayetteville,3,5,19,88,71,402,53,2025,8,NC,City
-Fayetteville,1,7,19,73,60,392,47,2025,9,NC,City
+Fayetteville,2,7,19,74,60,392,47,2025,9,NC,City
 Fayetteville,0,5,14,75,66,372,42,2025,10,NC,City
-Fayetteville,2,3,15,105,42,348,43,2025,11,NC,City
+Fayetteville,2,3,15,105,42,348,44,2025,11,NC,City
 Fayetteville,2,2,16,48,72,322,41,2025,12,NC,City
 Fayetteville,0,0,3,1,3,19,6,2026,1,NC,City
-Fayetteville,0,0,0,12,1,0,0,2026,2,NC,City
-Fayetteville,0,0,1,0,0,0,0,2026,3,NC,City
+Fayetteville,0,0,0,12,1,2,0,2026,2,NC,City
+Fayetteville,0,0,1,0,0,1,0,2026,3,NC,City
 Forsyth,0,5,0,21,11,103,12,2025,3,NC,County
 Forsyth,0,0,1,6,15,102,4,2025,4,NC,County
 Forsyth,0,3,2,9,22,99,5,2025,5,NC,County
@@ -284,10 +284,11 @@ Mooresville,0,3,9,11,4,79,4,2025,7,NC,City
 Mooresville,0,2,0,9,9,68,3,2025,8,NC,City
 Mooresville,0,3,0,2,5,77,9,2025,9,NC,City
 Mooresville,0,1,2,6,1,68,2,2025,10,NC,City
-Mooresville,0,2,1,5,6,58,12,2025,11,NC,City
-Mooresville,1,0,2,8,6,65,4,2025,12,NC,City
-Mooresville,0,2,1,3,3,70,0,2026,1,NC,City
-Mooresville,0,2,2,9,4,30,1,2026,2,NC,City
+Mooresville,0,3,1,5,6,59,12,2025,11,NC,City
+Mooresville,1,0,2,8,6,66,4,2025,12,NC,City
+Mooresville,0,2,1,3,3,74,0,2026,1,NC,City
+Mooresville,0,2,2,9,6,53,1,2026,2,NC,City
+Mooresville,0,0,0,2,0,43,3,2026,3,NC,City
 New Hanover,0,3,1,13,6,76,10,2025,3,NC,County
 New Hanover,1,0,3,15,13,72,10,2025,4,NC,County
 New Hanover,0,2,4,20,14,103,19,2025,5,NC,County

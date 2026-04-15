@@ -67,22 +67,24 @@ Chapel Hill,0,1,1,2,12,78,5,2025,8,NC,City
 Chapel Hill,0,0,2,1,14,80,7,2025,9,NC,City
 Chapel Hill,0,0,1,2,7,92,7,2025,10,NC,City
 Chapel Hill,0,0,3,0,10,59,9,2025,11,NC,City
-Chapel Hill,0,1,1,3,7,64,4,2025,12,NC,City
+Chapel Hill,0,1,1,4,7,64,4,2025,12,NC,City
 Chapel Hill,0,1,0,2,7,70,5,2026,1,NC,City
-Chapel Hill,0,0,1,3,6,57,0,2026,2,NC,City
+Chapel Hill,0,0,1,2,6,60,0,2026,2,NC,City
+Chapel Hill,0,1,2,9,11,72,7,2026,3,NC,City
+Chapel Hill,0,0,0,1,0,0,0,2026,4,NC,City
 Charlotte,5,14,79,338,319,2084,467,2025,4,NC,City
 Charlotte,14,24,86,393,331,2199,537,2025,5,NC,City
 Charlotte,4,18,82,386,296,2186,577,2025,6,NC,City
 Charlotte,7,20,92,589,308,2297,565,2025,7,NC,City
 Charlotte,6,16,90,436,291,2276,510,2025,8,NC,City
 Charlotte,9,16,89,364,363,2414,443,2025,9,NC,City
-Charlotte,16,20,84,391,322,2379,459,2025,10,NC,City
+Charlotte,16,20,84,391,322,2379,458,2025,10,NC,City
 Charlotte,8,16,64,375,263,2040,487,2025,11,NC,City
-Charlotte,7,13,65,262,325,2112,405,2025,12,NC,City
+Charlotte,7,13,65,262,326,2112,405,2025,12,NC,City
 Charlotte,7,17,70,292,272,2030,369,2026,1,NC,City
 Charlotte,7,13,49,267,203,1603,308,2026,2,NC,City
-Charlotte,8,21,70,308,223,1868,361,2026,3,NC,City
-Charlotte,2,4,29,146,98,753,152,2026,4,NC,City
+Charlotte,8,21,70,308,224,1866,361,2026,3,NC,City
+Charlotte,3,4,32,172,114,844,164,2026,4,NC,City
 Concord,1,1,2,14,6,77,20,2025,4,NC,City
 Concord,0,1,4,3,11,69,14,2025,5,NC,City
 Concord,0,0,2,6,6,52,8,2025,6,NC,City
@@ -91,9 +93,10 @@ Concord,0,0,1,6,5,63,6,2025,8,NC,City
 Concord,1,1,5,10,15,75,8,2025,9,NC,City
 Concord,0,1,3,7,8,76,12,2025,10,NC,City
 Concord,0,1,2,7,6,75,12,2025,11,NC,City
-Concord,0,1,0,10,9,91,15,2025,12,NC,City
-Concord,0,1,1,7,7,78,11,2026,1,NC,City
-Concord,0,5,1,6,8,61,9,2026,2,NC,City
+Concord,0,1,0,10,9,92,15,2025,12,NC,City
+Concord,0,1,1,7,7,79,11,2026,1,NC,City
+Concord,0,4,1,6,9,63,9,2026,2,NC,City
+Concord,3,2,1,7,8,69,16,2026,3,NC,City
 Davidson,0,0,0,7,13,43,9,2025,4,NC,County
 Davidson,0,0,0,11,19,52,9,2025,5,NC,County
 Davidson,1,1,1,4,20,49,7,2025,6,NC,County
@@ -184,17 +187,17 @@ Greenville,2,0,8,27,9,150,5,2025,12,NC,City
 Greenville,0,0,1,5,4,36,1,2026,1,NC,City
 Greenville,0,0,0,0,0,2,0,2026,3,NC,City
 Guilford,0,2,8,6,21,58,13,2025,4,NC,County
-Guilford,0,3,3,11,9,42,9,2025,5,NC,County
-Guilford,0,0,7,13,17,47,15,2025,6,NC,County
+Guilford,0,3,3,11,9,43,9,2025,5,NC,County
+Guilford,0,1,7,13,17,47,15,2025,6,NC,County
 Guilford,1,0,1,13,9,46,14,2025,7,NC,County
 Guilford,0,1,3,8,12,67,8,2025,8,NC,County
 Guilford,2,0,2,19,16,45,8,2025,9,NC,County
 Guilford,0,2,2,10,11,40,9,2025,10,NC,County
-Guilford,1,0,2,13,15,44,11,2025,11,NC,County
-Guilford,0,0,1,16,13,47,11,2025,12,NC,County
+Guilford,1,0,2,13,15,44,10,2025,11,NC,County
+Guilford,0,0,1,16,13,48,11,2025,12,NC,County
 Guilford,0,0,2,20,7,37,5,2026,1,NC,County
-Guilford,0,0,0,5,7,30,12,2026,2,NC,County
-Guilford,1,0,1,0,0,0,0,2026,3,NC,County
+Guilford,0,1,0,5,8,33,13,2026,2,NC,County
+Guilford,1,1,3,7,9,34,10,2026,3,NC,County
 High Point,0,4,9,40,33,148,36,2025,4,NC,City
 High Point,0,0,10,46,37,143,42,2025,5,NC,City
 High Point,2,3,7,69,29,148,24,2025,6,NC,City
@@ -219,7 +222,7 @@ Huntersville,0,1,2,1,10,58,9,2025,12,NC,City
 Huntersville,0,0,1,3,2,38,4,2026,1,NC,City
 Huntersville,0,1,0,7,6,28,6,2026,2,NC,City
 Huntersville,0,1,1,2,8,43,4,2026,3,NC,City
-Huntersville,0,1,0,1,1,19,0,2026,4,NC,City
+Huntersville,0,1,0,1,1,21,0,2026,4,NC,City
 Iredell,0,2,1,17,21,29,4,2025,4,NC,County
 Iredell,0,0,1,25,15,43,5,2025,5,NC,County
 Iredell,0,0,0,25,11,29,7,2025,6,NC,County
@@ -244,26 +247,29 @@ Jacksonville,0,0,0,6,9,74,1,2025,12,NC,City
 Jacksonville,0,0,1,13,10,72,1,2026,1,NC,City
 Johnston,0,2,0,8,17,90,14,2025,4,NC,County
 Johnston,0,2,1,19,11,71,10,2025,5,NC,County
-Johnston,0,2,1,12,22,94,15,2025,6,NC,County
+Johnston,0,2,1,12,22,95,15,2025,6,NC,County
 Johnston,3,4,0,8,16,84,8,2025,7,NC,County
-Johnston,1,1,0,11,22,76,4,2025,8,NC,County
+Johnston,1,1,0,11,22,77,4,2025,8,NC,County
 Johnston,1,4,1,10,10,78,17,2025,9,NC,County
-Johnston,4,0,2,6,16,67,6,2025,10,NC,County
+Johnston,4,0,2,6,16,69,6,2025,10,NC,County
 Johnston,0,2,2,9,20,74,12,2025,11,NC,County
-Johnston,0,1,0,5,17,79,12,2025,12,NC,County
-Johnston,0,3,1,4,8,61,7,2026,1,NC,County
-Johnston,0,2,1,4,17,45,10,2026,2,NC,County
-Kannapolis,0,0,1,9,8,43,12,2025,4,NC,City
+Johnston,0,1,0,5,17,79,13,2025,12,NC,County
+Johnston,0,3,1,4,9,62,7,2026,1,NC,County
+Johnston,0,2,1,5,17,50,10,2026,2,NC,County
+Johnston,2,1,0,8,12,68,11,2026,3,NC,County
+Kannapolis,0,0,1,9,8,44,12,2025,4,NC,City
 Kannapolis,0,1,0,5,12,62,10,2025,5,NC,City
 Kannapolis,0,0,1,4,8,66,4,2025,6,NC,City
 Kannapolis,0,0,2,3,16,62,7,2025,7,NC,City
 Kannapolis,0,1,1,9,14,64,6,2025,8,NC,City
 Kannapolis,0,2,0,15,7,73,10,2025,9,NC,City
 Kannapolis,0,0,2,6,8,48,5,2025,10,NC,City
-Kannapolis,0,0,1,4,12,50,4,2025,11,NC,City
+Kannapolis,0,0,1,4,12,51,4,2025,11,NC,City
 Kannapolis,0,1,2,1,11,59,8,2025,12,NC,City
-Kannapolis,0,1,3,2,7,44,7,2026,1,NC,City
-Kannapolis,0,1,0,13,8,47,6,2026,2,NC,City
+Kannapolis,0,1,3,2,7,45,7,2026,1,NC,City
+Kannapolis,0,1,0,13,8,48,7,2026,2,NC,City
+Kannapolis,0,3,0,3,3,48,11,2026,3,NC,City
+Kannapolis,0,0,0,0,0,1,0,2026,4,NC,City
 Mooresville,0,4,0,7,3,88,7,2025,4,NC,City
 Mooresville,0,1,1,12,6,66,8,2025,5,NC,City
 Mooresville,0,3,0,8,3,96,5,2025,6,NC,City
@@ -272,10 +278,11 @@ Mooresville,0,2,0,9,9,68,3,2025,8,NC,City
 Mooresville,0,3,0,2,5,77,9,2025,9,NC,City
 Mooresville,0,1,2,6,1,68,2,2025,10,NC,City
 Mooresville,0,3,1,5,6,59,12,2025,11,NC,City
-Mooresville,1,0,2,8,6,66,4,2025,12,NC,City
-Mooresville,0,2,1,3,3,74,0,2026,1,NC,City
+Mooresville,1,1,2,8,6,66,4,2025,12,NC,City
+Mooresville,0,2,1,3,3,76,0,2026,1,NC,City
 Mooresville,0,2,2,9,6,53,1,2026,2,NC,City
-Mooresville,0,0,0,2,0,43,3,2026,3,NC,City
+Mooresville,0,0,1,2,1,65,3,2026,3,NC,City
+Mooresville,0,1,0,0,1,25,1,2026,4,NC,City
 New Hanover,1,0,3,15,13,72,10,2025,4,NC,County
 New Hanover,0,2,4,20,14,103,19,2025,5,NC,County
 New Hanover,0,4,2,5,15,104,13,2025,6,NC,County

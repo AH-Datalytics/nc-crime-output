@@ -84,8 +84,8 @@ Charlotte,7,17,68,291,272,2030,369,2026,1,NC,City
 Charlotte,7,13,49,267,203,1599,307,2026,2,NC,City
 Charlotte,8,21,70,309,227,1843,354,2026,3,NC,City
 Charlotte,3,12,59,359,264,1970,324,2026,4,NC,City
-Charlotte,10,14,77,388,274,2033,378,2026,5,NC,City
-Charlotte,6,14,49,351,177,1635,358,2026,6,NC,City
+Charlotte,10,14,77,388,274,2031,378,2026,5,NC,City
+Charlotte,6,14,54,379,190,1710,378,2026,6,NC,City
 Concord,0,0,2,6,6,52,8,2025,6,NC,City
 Concord,0,0,2,4,8,70,11,2025,7,NC,City
 Concord,0,0,1,6,5,63,6,2025,8,NC,City
@@ -226,7 +226,7 @@ Huntersville,0,1,0,7,5,27,6,2026,2,NC,City
 Huntersville,0,1,0,2,8,43,4,2026,3,NC,City
 Huntersville,0,1,0,7,5,55,5,2026,4,NC,City
 Huntersville,1,0,1,13,8,38,8,2026,5,NC,City
-Huntersville,0,0,0,21,6,19,4,2026,6,NC,City
+Huntersville,0,0,0,21,6,20,4,2026,6,NC,City
 Iredell,0,0,0,25,11,29,7,2025,6,NC,County
 Iredell,0,2,1,8,25,27,8,2025,7,NC,County
 Iredell,0,0,1,6,13,30,6,2025,8,NC,County

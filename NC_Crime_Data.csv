@@ -81,8 +81,8 @@ Charlotte,7,13,49,267,203,1599,305,2026,2,NC,City
 Charlotte,8,21,70,309,227,1842,354,2026,3,NC,City
 Charlotte,3,12,59,359,264,1969,325,2026,4,NC,City
 Charlotte,10,14,77,387,275,2027,379,2026,5,NC,City
-Charlotte,7,18,65,461,237,2088,456,2026,6,NC,City
-Charlotte,3,10,34,165,103,798,122,2026,7,NC,City
+Charlotte,7,18,65,461,238,2087,456,2026,6,NC,City
+Charlotte,3,10,35,175,114,869,138,2026,7,NC,City
 Concord,0,0,2,4,8,70,11,2025,7,NC,City
 Concord,0,0,1,6,5,63,6,2025,8,NC,City
 Concord,1,1,5,10,15,75,8,2025,9,NC,City
@@ -219,7 +219,7 @@ Huntersville,0,1,0,2,8,43,4,2026,3,NC,City
 Huntersville,0,1,0,7,5,54,5,2026,4,NC,City
 Huntersville,1,0,1,13,8,38,8,2026,5,NC,City
 Huntersville,0,0,1,22,9,34,7,2026,6,NC,City
-Huntersville,0,0,0,4,5,11,0,2026,7,NC,City
+Huntersville,0,0,0,4,6,11,0,2026,7,NC,City
 Iredell,0,2,1,8,25,27,8,2025,7,NC,County
 Iredell,0,0,1,6,13,30,6,2025,8,NC,County
 Iredell,0,0,1,12,15,23,5,2025,9,NC,County
@@ -277,7 +277,7 @@ Mooresville,0,0,1,2,1,68,3,2026,3,NC,City
 Mooresville,0,1,0,5,3,70,2,2026,4,NC,City
 Mooresville,0,2,0,6,4,69,6,2026,5,NC,City
 Mooresville,0,3,0,3,4,60,7,2026,6,NC,City
-Mooresville,0,0,0,0,0,2,0,2026,7,NC,City
+Mooresville,0,0,1,0,0,2,0,2026,7,NC,City
 New Hanover,1,2,3,5,13,79,3,2025,7,NC,County
 New Hanover,0,5,1,13,19,72,4,2025,8,NC,County
 New Hanover,2,8,1,15,6,80,0,2025,9,NC,County
@@ -305,16 +305,16 @@ Onslow,0,2,1,26,21,72,13,2026,6,NC,County
 Raleigh,1,17,20,134,109,804,126,2025,7,NC,City
 Raleigh,2,16,41,131,91,783,145,2025,8,NC,City
 Raleigh,1,16,31,102,77,677,113,2025,9,NC,City
-Raleigh,2,17,36,152,105,678,102,2025,10,NC,City
+Raleigh,2,17,36,152,105,678,103,2025,10,NC,City
 Raleigh,2,15,28,112,108,685,89,2025,11,NC,City
 Raleigh,1,8,25,80,96,605,109,2025,12,NC,City
 Raleigh,1,11,31,103,93,647,97,2026,1,NC,City
 Raleigh,1,14,21,119,61,656,120,2026,2,NC,City
 Raleigh,1,11,33,109,79,683,168,2026,3,NC,City
-Raleigh,2,11,27,126,57,744,139,2026,4,NC,City
-Raleigh,0,9,37,117,74,765,134,2026,5,NC,City
-Raleigh,1,8,35,117,56,703,119,2026,6,NC,City
-Raleigh,1,6,9,28,17,145,15,2026,7,NC,City
+Raleigh,2,11,27,126,57,745,139,2026,4,NC,City
+Raleigh,0,9,37,118,74,765,134,2026,5,NC,City
+Raleigh,1,8,35,117,56,709,119,2026,6,NC,City
+Raleigh,1,9,10,42,24,210,28,2026,7,NC,City
 Rocky Mount,3,0,3,20,28,141,14,2025,7,NC,City
 Rocky Mount,1,2,6,24,30,142,12,2025,8,NC,City
 Rocky Mount,1,1,7,29,31,123,7,2025,9,NC,City
@@ -344,11 +344,12 @@ Wake,0,6,0,19,29,49,11,2025,9,NC,County
 Wake,0,1,0,18,42,49,17,2025,10,NC,County
 Wake,2,3,2,12,24,46,18,2025,11,NC,County
 Wake,0,2,2,9,44,44,20,2025,12,NC,County
-Wake,0,0,4,8,32,49,16,2026,1,NC,County
+Wake,0,1,4,8,32,50,16,2026,1,NC,County
 Wake,3,3,0,15,14,27,9,2026,2,NC,County
 Wake,1,1,2,15,29,44,14,2026,3,NC,County
-Wake,1,1,2,21,29,40,13,2026,4,NC,County
-Wake,0,0,1,17,26,45,10,2026,5,NC,County
+Wake,1,1,2,21,30,40,13,2026,4,NC,County
+Wake,0,0,2,17,26,47,10,2026,5,NC,County
+Wake,1,0,4,10,24,46,11,2026,6,NC,County
 Wake Forest,0,0,0,3,11,51,5,2025,7,NC,City
 Wake Forest,1,0,0,2,3,42,2,2025,8,NC,City
 Wake Forest,1,0,0,3,2,24,2,2025,9,NC,City
@@ -363,16 +364,16 @@ Wake Forest,0,0,1,9,7,25,2,2026,5,NC,City
 Wake Forest,0,0,0,0,2,43,1,2026,6,NC,City
 Wilmington,2,5,7,35,38,212,28,2025,7,NC,City
 Wilmington,0,3,5,32,45,279,16,2025,8,NC,City
-Wilmington,0,11,14,28,36,236,23,2025,9,NC,City
+Wilmington,0,11,14,28,36,237,23,2025,9,NC,City
 Wilmington,0,5,4,12,51,264,22,2025,10,NC,City
 Wilmington,0,4,8,15,36,237,30,2025,11,NC,City
 Wilmington,2,6,10,29,30,219,24,2025,12,NC,City
-Wilmington,2,5,13,20,41,208,25,2026,1,NC,City
+Wilmington,2,5,13,20,41,209,25,2026,1,NC,City
 Wilmington,0,1,7,32,39,263,26,2026,2,NC,City
-Wilmington,3,7,9,27,41,247,31,2026,3,NC,City
-Wilmington,1,8,10,38,32,232,33,2026,4,NC,City
-Wilmington,0,1,1,25,28,223,27,2026,5,NC,City
-Wilmington,0,0,0,0,0,0,1,2026,6,NC,City
+Wilmington,3,7,9,27,42,250,31,2026,3,NC,City
+Wilmington,1,8,10,38,32,236,33,2026,4,NC,City
+Wilmington,0,1,2,30,33,244,29,2026,5,NC,City
+Wilmington,2,1,3,30,34,240,21,2026,6,NC,City
 Winston-Salem,2,9,18,127,128,536,78,2025,7,NC,City
 Winston-Salem,8,8,18,120,141,533,87,2025,8,NC,City
 Winston-Salem,4,16,10,146,107,482,58,2025,9,NC,City

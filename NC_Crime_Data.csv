@@ -56,8 +56,9 @@ Cary,0,1,3,7,11,91,4,2026,3,NC,City
 Cary,0,2,0,4,7,130,13,2026,4,NC,City
 Cary,0,3,2,5,11,97,9,2026,5,NC,City
 Cary,0,0,1,5,14,101,10,2026,6,NC,City
-Cary,0,1,0,8,8,93,9,2026,7,NC,City
-Cary,0,0,1,11,8,102,4,2026,8,NC,City
+Cary,0,1,0,8,7,93,9,2026,7,NC,City
+Cary,0,0,1,11,8,106,4,2026,8,NC,City
+Cary,0,0,0,0,0,1,0,2026,9,NC,City
 Chapel Hill,0,0,2,1,14,80,7,2025,9,NC,City
 Chapel Hill,0,0,1,2,7,94,7,2025,10,NC,City
 Chapel Hill,0,0,3,0,10,59,9,2025,11,NC,City
@@ -80,7 +81,8 @@ Charlotte,3,12,59,359,264,1968,325,2026,4,NC,City
 Charlotte,10,15,76,390,275,2022,376,2026,5,NC,City
 Charlotte,8,18,63,461,239,2082,449,2026,6,NC,City
 Charlotte,8,21,77,342,254,2023,343,2026,7,NC,City
-Charlotte,5,29,70,295,218,2075,373,2026,8,NC,City
+Charlotte,5,29,71,296,222,2075,373,2026,8,NC,City
+Charlotte,0,0,1,23,12,60,6,2026,9,NC,City
 Concord,1,1,5,10,15,75,8,2025,9,NC,City
 Concord,0,1,3,7,8,76,12,2025,10,NC,City
 Concord,0,1,2,7,6,75,12,2025,11,NC,City
@@ -164,14 +166,15 @@ Greensboro,2,7,46,147,111,483,111,2025,9,NC,City
 Greensboro,2,5,37,110,123,508,127,2025,10,NC,City
 Greensboro,4,6,35,106,102,559,120,2025,11,NC,City
 Greensboro,5,5,40,98,94,556,129,2025,12,NC,City
-Greensboro,1,2,3,26,12,53,12,2026,1,NC,City
+Greensboro,1,2,3,28,12,53,12,2026,1,NC,City
 Greensboro,1,15,22,92,82,355,74,2026,2,NC,City
 Greensboro,1,8,38,158,91,479,99,2026,3,NC,City
 Greensboro,3,9,34,147,86,564,114,2026,4,NC,City
-Greensboro,1,12,44,94,105,525,125,2026,5,NC,City
-Greensboro,3,6,30,119,90,559,133,2026,6,NC,City
-Greensboro,0,14,24,125,109,555,124,2026,7,NC,City
-Greensboro,0,8,22,122,104,459,131,2026,8,NC,City
+Greensboro,1,12,44,95,105,525,125,2026,5,NC,City
+Greensboro,3,6,31,119,90,560,133,2026,6,NC,City
+Greensboro,0,14,24,125,109,556,124,2026,7,NC,City
+Greensboro,0,10,24,126,106,489,133,2026,8,NC,City
+Greensboro,0,0,0,4,1,6,3,2026,9,NC,City
 Greenville,0,3,1,23,34,196,13,2025,9,NC,City
 Greenville,0,1,3,27,20,187,14,2025,10,NC,City
 Greenville,0,5,5,36,11,175,12,2025,11,NC,City
@@ -246,10 +249,11 @@ Johnston,0,1,0,5,17,79,13,2025,12,NC,County
 Johnston,0,3,1,4,9,62,7,2026,1,NC,County
 Johnston,0,2,1,5,17,52,10,2026,2,NC,County
 Johnston,2,1,0,8,11,72,11,2026,3,NC,County
-Johnston,0,1,0,9,14,71,13,2026,4,NC,County
+Johnston,0,1,0,9,15,71,13,2026,4,NC,County
 Johnston,0,4,1,16,15,72,7,2026,5,NC,County
-Johnston,0,3,2,11,20,89,10,2026,6,NC,County
-Johnston,0,2,1,8,15,65,13,2026,7,NC,County
+Johnston,0,3,2,11,21,90,10,2026,6,NC,County
+Johnston,0,2,1,8,16,71,14,2026,7,NC,County
+Johnston,0,0,0,14,7,47,5,2026,8,NC,County
 Kannapolis,0,2,0,15,7,74,10,2025,9,NC,City
 Kannapolis,0,0,2,6,8,47,5,2025,10,NC,City
 Kannapolis,0,0,1,4,12,51,4,2025,11,NC,City
@@ -264,14 +268,15 @@ Kannapolis,0,4,1,6,7,64,6,2026,7,NC,City
 Mooresville,0,3,0,2,5,77,9,2025,9,NC,City
 Mooresville,0,1,2,6,1,68,2,2025,10,NC,City
 Mooresville,0,3,1,5,6,60,12,2025,11,NC,City
-Mooresville,1,1,2,8,6,65,4,2025,12,NC,City
+Mooresville,1,1,2,8,6,69,4,2025,12,NC,City
 Mooresville,0,2,1,3,3,76,0,2026,1,NC,City
-Mooresville,0,3,2,9,6,53,1,2026,2,NC,City
+Mooresville,0,3,2,12,6,54,1,2026,2,NC,City
 Mooresville,0,0,1,2,1,68,3,2026,3,NC,City
 Mooresville,0,1,0,5,3,70,2,2026,4,NC,City
-Mooresville,0,2,0,6,4,69,6,2026,5,NC,City
-Mooresville,0,3,0,3,4,60,7,2026,6,NC,City
-Mooresville,0,0,1,0,0,2,0,2026,7,NC,City
+Mooresville,0,2,0,6,4,71,6,2026,5,NC,City
+Mooresville,0,3,0,3,6,76,8,2026,6,NC,City
+Mooresville,0,3,1,11,3,55,3,2026,7,NC,City
+Mooresville,0,1,0,3,12,60,3,2026,8,NC,City
 New Hanover,2,8,1,15,6,80,0,2025,9,NC,County
 New Hanover,0,3,3,17,24,79,2,2025,10,NC,County
 New Hanover,0,5,1,4,14,77,4,2025,11,NC,County

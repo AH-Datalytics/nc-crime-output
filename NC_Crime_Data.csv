@@ -60,7 +60,7 @@ Cary,0,0,1,5,14,102,10,2026,6,NC,City
 Cary,0,1,0,8,7,99,9,2026,7,NC,City
 Cary,0,0,1,12,9,114,4,2026,8,NC,City
 Cary,0,1,2,7,10,86,4,2026,9,NC,City
-Cary,0,0,1,2,2,35,0,2026,10,NC,City
+Cary,0,0,1,2,2,37,1,2026,10,NC,City
 Chapel Hill,0,0,1,2,7,94,7,2025,10,NC,City
 Chapel Hill,0,0,3,0,10,59,10,2025,11,NC,City
 Chapel Hill,0,1,1,4,7,65,4,2025,12,NC,City
@@ -83,9 +83,9 @@ Charlotte,3,12,59,359,264,1966,325,2026,4,NC,City
 Charlotte,10,16,76,390,276,2020,375,2026,5,NC,City
 Charlotte,7,19,63,467,239,2081,450,2026,6,NC,City
 Charlotte,8,21,77,342,255,2021,340,2026,7,NC,City
-Charlotte,5,27,68,299,224,2036,366,2026,8,NC,City
+Charlotte,5,27,68,299,224,2035,366,2026,8,NC,City
 Charlotte,11,15,54,356,246,2044,383,2026,9,NC,City
-Charlotte,4,9,29,100,98,953,156,2026,10,NC,City
+Charlotte,4,10,32,114,106,1032,167,2026,10,NC,City
 Concord,0,1,3,7,8,76,12,2025,10,NC,City
 Concord,0,1,2,7,6,75,12,2025,11,NC,City
 Concord,0,1,0,10,9,92,15,2025,12,NC,City
@@ -142,10 +142,11 @@ Fayetteville,2,4,7,82,52,331,19,2026,2,NC,City
 Fayetteville,2,3,13,92,55,367,31,2026,3,NC,City
 Fayetteville,1,4,21,98,51,392,50,2026,4,NC,City
 Fayetteville,0,4,15,73,82,360,72,2026,5,NC,City
-Fayetteville,0,5,8,94,65,346,46,2026,6,NC,City
-Fayetteville,1,1,7,90,50,373,56,2026,7,NC,City
+Fayetteville,0,5,8,94,65,346,47,2026,6,NC,City
+Fayetteville,1,1,7,92,50,373,56,2026,7,NC,City
 Fayetteville,0,13,16,85,51,326,38,2026,8,NC,City
-Fayetteville,0,1,7,34,23,215,14,2026,9,NC,City
+Fayetteville,0,1,7,34,23,216,14,2026,9,NC,City
+Fayetteville,0,0,0,0,0,2,0,2026,10,NC,City
 Forsyth,1,1,3,14,12,88,7,2025,10,NC,County
 Forsyth,0,2,1,20,16,102,5,2025,11,NC,County
 Forsyth,1,0,0,15,9,103,5,2025,12,NC,County
@@ -169,10 +170,10 @@ Gastonia,0,7,7,41,28,139,11,2026,6,NC,City
 Gastonia,1,2,3,48,24,157,11,2026,7,NC,City
 Gastonia,0,0,3,22,18,163,25,2026,8,NC,City
 Gastonia,0,1,6,62,25,111,16,2026,9,NC,City
-Greensboro,2,5,38,111,123,509,128,2025,10,NC,City
+Greensboro,2,5,38,111,123,510,128,2025,10,NC,City
 Greensboro,4,7,35,106,102,559,119,2025,11,NC,City
 Greensboro,5,5,40,113,94,557,130,2025,12,NC,City
-Greensboro,1,2,3,31,12,55,12,2026,1,NC,City
+Greensboro,1,2,4,31,12,55,12,2026,1,NC,City
 Greensboro,1,17,22,94,81,357,75,2026,2,NC,City
 Greensboro,1,8,39,158,91,481,99,2026,3,NC,City
 Greensboro,3,9,34,146,86,567,114,2026,4,NC,City
@@ -180,8 +181,8 @@ Greensboro,1,12,45,95,105,529,125,2026,5,NC,City
 Greensboro,2,8,32,122,90,565,134,2026,6,NC,City
 Greensboro,0,13,26,138,113,563,125,2026,7,NC,City
 Greensboro,3,11,31,167,126,559,150,2026,8,NC,City
-Greensboro,0,9,20,137,101,475,97,2026,9,NC,City
-Greensboro,0,4,17,48,34,150,33,2026,10,NC,City
+Greensboro,0,9,20,138,101,477,98,2026,9,NC,City
+Greensboro,0,4,18,53,37,176,37,2026,10,NC,City
 Greenville,0,1,3,27,20,187,14,2025,10,NC,City
 Greenville,0,5,5,36,11,175,12,2025,11,NC,City
 Greenville,2,0,8,32,9,154,5,2025,12,NC,City
@@ -193,6 +194,7 @@ Greenville,0,1,0,35,24,156,13,2026,5,NC,City
 Greenville,0,2,7,36,14,149,3,2026,6,NC,City
 Greenville,0,2,5,11,20,144,7,2026,7,NC,City
 Greenville,0,0,0,0,0,1,0,2026,8,NC,City
+Greenville,0,0,0,0,0,1,0,2026,9,NC,City
 Guilford,0,2,2,10,11,41,9,2025,10,NC,County
 Guilford,1,0,2,13,15,43,10,2025,11,NC,County
 Guilford,0,0,1,16,13,48,11,2025,12,NC,County
@@ -229,7 +231,7 @@ Huntersville,0,0,1,20,9,35,7,2026,6,NC,City
 Huntersville,0,2,0,4,10,27,2,2026,7,NC,City
 Huntersville,0,0,1,5,3,61,3,2026,8,NC,City
 Huntersville,1,1,1,5,3,30,6,2026,9,NC,City
-Huntersville,0,0,0,3,2,11,4,2026,10,NC,City
+Huntersville,0,0,0,3,3,12,4,2026,10,NC,City
 Iredell,0,1,0,13,11,29,11,2025,10,NC,County
 Iredell,0,0,0,15,11,31,6,2025,11,NC,County
 Iredell,0,0,0,5,10,24,2,2025,12,NC,County
@@ -319,11 +321,11 @@ Raleigh,1,14,21,126,62,662,120,2026,2,NC,City
 Raleigh,1,13,32,109,82,691,168,2026,3,NC,City
 Raleigh,2,11,27,128,57,754,139,2026,4,NC,City
 Raleigh,0,9,38,139,77,779,137,2026,5,NC,City
-Raleigh,1,10,36,119,56,742,125,2026,6,NC,City
+Raleigh,1,10,36,119,56,743,125,2026,6,NC,City
 Raleigh,2,16,24,147,86,694,106,2026,7,NC,City
-Raleigh,1,11,27,122,74,731,60,2026,8,NC,City
-Raleigh,0,18,29,128,64,636,88,2026,9,NC,City
-Raleigh,0,5,7,24,7,115,20,2026,10,NC,City
+Raleigh,1,11,27,122,74,732,60,2026,8,NC,City
+Raleigh,0,19,29,128,64,643,88,2026,9,NC,City
+Raleigh,0,10,14,43,17,225,36,2026,10,NC,City
 Rocky Mount,0,0,3,25,24,108,6,2025,10,NC,City
 Rocky Mount,3,1,4,24,30,96,9,2025,11,NC,City
 Rocky Mount,1,2,4,19,20,95,8,2025,12,NC,City
@@ -336,14 +338,16 @@ Rocky Mount,1,3,8,21,26,87,17,2026,6,NC,City
 Rocky Mount,1,3,5,21,21,113,14,2026,7,NC,City
 Rocky Mount,0,1,0,0,1,2,0,2026,8,NC,City
 Rocky Mount,0,0,0,0,1,1,0,2026,9,NC,City
-Union,1,5,1,16,28,75,6,2025,10,NC,County
+Union,1,5,1,16,28,76,6,2025,10,NC,County
 Union,0,2,1,7,17,57,3,2025,11,NC,County
-Union,0,4,1,10,13,45,4,2025,12,NC,County
-Union,0,3,2,8,25,63,4,2026,1,NC,County
+Union,0,4,0,10,13,46,4,2025,12,NC,County
+Union,0,2,2,8,25,62,5,2026,1,NC,County
 Union,0,4,2,5,10,57,5,2026,2,NC,County
-Union,0,2,1,5,18,71,3,2026,3,NC,County
-Union,0,0,0,13,14,62,6,2026,4,NC,County
-Union,0,0,0,0,0,0,1,2026,5,NC,County
+Union,0,2,1,5,18,70,3,2026,3,NC,County
+Union,0,0,0,13,14,60,6,2026,4,NC,County
+Union,0,2,1,17,15,58,6,2026,5,NC,County
+Union,1,4,0,13,11,54,5,2026,6,NC,County
+Union,0,0,0,0,1,1,0,2026,7,NC,County
 Wake,0,1,0,18,42,49,17,2025,10,NC,County
 Wake,2,3,2,12,24,46,18,2025,11,NC,County
 Wake,0,2,2,9,44,44,20,2025,12,NC,County

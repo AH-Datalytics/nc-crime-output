@@ -60,7 +60,7 @@ Cary,0,0,1,5,14,102,10,2026,6,NC,City
 Cary,0,1,0,8,7,99,9,2026,7,NC,City
 Cary,0,0,1,12,9,114,4,2026,8,NC,City
 Cary,0,1,2,7,10,87,5,2026,9,NC,City
-Cary,0,0,1,6,7,69,3,2026,10,NC,City
+Cary,0,0,1,6,7,72,3,2026,10,NC,City
 Chapel Hill,0,0,1,2,7,94,7,2025,10,NC,City
 Chapel Hill,0,0,3,0,10,59,10,2025,11,NC,City
 Chapel Hill,0,1,1,4,7,65,4,2025,12,NC,City
@@ -138,15 +138,15 @@ Durham,2,6,20,66,39,365,54,2026,10,NC,City
 Fayetteville,0,5,14,79,69,380,44,2025,10,NC,City
 Fayetteville,2,4,16,109,46,374,45,2025,11,NC,City
 Fayetteville,1,2,16,50,80,375,46,2025,12,NC,City
-Fayetteville,8,2,13,40,51,359,31,2026,1,NC,City
+Fayetteville,8,2,13,40,51,359,32,2026,1,NC,City
 Fayetteville,2,4,7,82,53,332,19,2026,2,NC,City
 Fayetteville,2,3,13,92,55,366,31,2026,3,NC,City
 Fayetteville,1,4,21,98,51,392,52,2026,4,NC,City
 Fayetteville,0,4,15,73,83,363,72,2026,5,NC,City
-Fayetteville,0,5,8,96,65,349,49,2026,6,NC,City
-Fayetteville,1,1,7,93,51,382,57,2026,7,NC,City
-Fayetteville,0,14,16,86,51,339,43,2026,8,NC,City
-Fayetteville,0,1,16,57,41,359,24,2026,9,NC,City
+Fayetteville,0,5,8,96,66,349,50,2026,6,NC,City
+Fayetteville,1,1,7,93,51,384,57,2026,7,NC,City
+Fayetteville,0,14,16,86,51,340,43,2026,8,NC,City
+Fayetteville,0,1,16,57,41,362,24,2026,9,NC,City
 Fayetteville,2,2,7,72,33,196,7,2026,10,NC,City
 Forsyth,1,1,3,14,12,88,7,2025,10,NC,County
 Forsyth,0,2,1,20,16,102,5,2025,11,NC,County
@@ -182,10 +182,10 @@ Greensboro,1,8,39,158,91,481,99,2026,3,NC,City
 Greensboro,3,9,34,146,86,570,114,2026,4,NC,City
 Greensboro,1,12,45,95,105,530,125,2026,5,NC,City
 Greensboro,2,8,32,124,90,565,134,2026,6,NC,City
-Greensboro,0,13,26,138,114,569,125,2026,7,NC,City
+Greensboro,0,13,26,138,114,570,125,2026,7,NC,City
 Greensboro,4,11,31,170,129,562,150,2026,8,NC,City
 Greensboro,0,9,22,147,106,484,99,2026,9,NC,City
-Greensboro,0,6,29,89,82,375,77,2026,10,NC,City
+Greensboro,0,6,31,91,86,386,81,2026,10,NC,City
 Greenville,0,1,3,27,20,187,14,2025,10,NC,City
 Greenville,0,5,5,36,11,175,12,2025,11,NC,City
 Greenville,2,0,8,32,9,154,5,2025,12,NC,City

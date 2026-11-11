@@ -12,14 +12,15 @@ Apex,0,0,0,0,0,13,0,2026,8,NC,City
 Asheville,1,1,10,51,62,258,26,2025,11,NC,City
 Asheville,1,4,8,38,49,251,32,2025,12,NC,City
 Asheville,0,3,3,48,41,219,12,2026,1,NC,City
-Asheville,0,2,8,29,38,200,21,2026,2,NC,City
-Asheville,2,4,5,69,53,266,22,2026,3,NC,City
-Asheville,0,6,3,49,47,307,26,2026,4,NC,City
+Asheville,0,3,8,29,38,200,21,2026,2,NC,City
+Asheville,2,4,5,69,53,265,22,2026,3,NC,City
+Asheville,0,6,3,49,47,308,26,2026,4,NC,City
 Asheville,0,6,4,53,34,349,28,2026,5,NC,City
-Asheville,0,10,9,45,40,287,20,2026,6,NC,City
-Asheville,2,6,3,61,40,283,28,2026,7,NC,City
-Asheville,0,6,10,42,41,303,21,2026,8,NC,City
-Asheville,0,2,6,56,58,253,22,2026,9,NC,City
+Asheville,0,10,9,45,40,288,20,2026,6,NC,City
+Asheville,2,6,3,62,40,283,28,2026,7,NC,City
+Asheville,0,6,10,42,41,305,21,2026,8,NC,City
+Asheville,0,3,6,56,59,258,23,2026,9,NC,City
+Asheville,0,0,9,44,49,264,20,2026,10,NC,City
 Buncombe,0,2,2,12,15,50,6,2025,11,NC,County
 Buncombe,1,0,0,21,22,70,6,2025,12,NC,County
 Buncombe,0,2,1,11,14,47,6,2026,1,NC,County
@@ -57,7 +58,7 @@ Cary,0,2,0,8,7,100,9,2026,7,NC,City
 Cary,0,0,1,12,9,115,4,2026,8,NC,City
 Cary,0,1,2,7,10,88,5,2026,9,NC,City
 Cary,0,1,1,8,7,87,6,2026,10,NC,City
-Cary,0,0,0,0,2,13,0,2026,11,NC,City
+Cary,0,0,1,0,2,19,0,2026,11,NC,City
 Chapel Hill,0,0,3,0,10,59,10,2025,11,NC,City
 Chapel Hill,0,1,1,4,7,65,4,2025,12,NC,City
 Chapel Hill,0,1,0,2,7,70,5,2026,1,NC,City
@@ -78,11 +79,11 @@ Charlotte,8,21,70,309,227,1836,354,2026,3,NC,City
 Charlotte,3,12,59,359,265,1964,325,2026,4,NC,City
 Charlotte,10,16,76,390,276,2020,375,2026,5,NC,City
 Charlotte,7,19,63,467,239,2081,450,2026,6,NC,City
-Charlotte,8,22,77,342,254,2018,340,2026,7,NC,City
+Charlotte,8,23,77,342,255,2018,340,2026,7,NC,City
 Charlotte,5,27,68,299,224,2034,365,2026,8,NC,City
-Charlotte,11,14,53,356,246,2038,382,2026,9,NC,City
-Charlotte,13,34,72,287,231,2090,340,2026,10,NC,City
-Charlotte,0,5,21,86,41,538,87,2026,11,NC,City
+Charlotte,11,14,53,356,246,2038,381,2026,9,NC,City
+Charlotte,13,34,72,287,231,2088,339,2026,10,NC,City
+Charlotte,1,6,22,97,48,613,97,2026,11,NC,City
 Concord,0,1,2,7,6,75,12,2025,11,NC,City
 Concord,0,1,0,10,9,92,15,2025,12,NC,City
 Concord,2,1,1,7,7,79,11,2026,1,NC,City
@@ -173,9 +174,9 @@ Greensboro,1,12,46,95,105,532,125,2026,5,NC,City
 Greensboro,2,8,32,124,91,567,134,2026,6,NC,City
 Greensboro,0,13,26,138,114,574,125,2026,7,NC,City
 Greensboro,4,11,31,172,128,563,152,2026,8,NC,City
-Greensboro,0,9,22,148,106,489,99,2026,9,NC,City
-Greensboro,1,7,38,122,102,521,90,2026,10,NC,City
-Greensboro,0,1,8,11,22,94,21,2026,11,NC,City
+Greensboro,0,9,22,148,107,490,99,2026,9,NC,City
+Greensboro,1,7,38,123,102,521,91,2026,10,NC,City
+Greensboro,0,1,8,15,29,108,24,2026,11,NC,City
 Greenville,0,5,5,36,11,175,12,2025,11,NC,City
 Greenville,2,0,8,32,9,154,5,2025,12,NC,City
 Greenville,1,3,2,32,21,179,9,2026,1,NC,City
@@ -249,10 +250,12 @@ Johnston,0,2,1,5,17,52,10,2026,2,NC,County
 Johnston,2,1,0,8,11,72,11,2026,3,NC,County
 Johnston,0,1,0,9,15,71,13,2026,4,NC,County
 Johnston,0,4,1,16,15,72,7,2026,5,NC,County
-Johnston,0,3,2,11,21,90,10,2026,6,NC,County
+Johnston,0,3,2,11,21,91,10,2026,6,NC,County
 Johnston,0,2,1,8,17,72,14,2026,7,NC,County
 Johnston,0,1,0,14,8,53,5,2026,8,NC,County
-Johnston,0,0,1,11,13,82,9,2026,9,NC,County
+Johnston,0,0,1,11,13,84,9,2026,9,NC,County
+Johnston,2,1,1,8,22,68,5,2026,10,NC,County
+Johnston,0,0,0,0,0,1,0,2026,11,NC,County
 Kannapolis,0,0,1,4,12,51,4,2025,11,NC,City
 Kannapolis,0,1,2,1,11,59,8,2025,12,NC,City
 Kannapolis,0,1,3,2,7,44,6,2026,1,NC,City
